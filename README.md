@@ -16,6 +16,6 @@
 ## Chapter 2
 
 - Since your spawn time is unfortunate, you are getting Vaporized a lot in your Journey.
-- You are finally able to outrun the explosion and save yourself to a different demise.
+- You are finally able to outrun the explosion and save yourself to a different demise in Astrape.
 
 ### Click [here](https://github.com/ragavpr/terraformental-savebank/tree/2d4a42c8d3c6c9fe) to the next spoiler.
