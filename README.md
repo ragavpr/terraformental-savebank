@@ -11,6 +11,7 @@
 - After Discovering and fully exploring Laurion, you meet with another strange object called Obelisk, which you start digging.
 - Eventually you reach the undocumented territory, and things get uncomfortable.
 - After Several attempts, finding another weird artifact, this time it violates your storage. You proceed to your next location, in the hopes of finding companions.
+- The path is filled with Rocks, and it isn't easy.
 
 
-### Click [here](https://github.com/ragavpr/terraformental-savebank/tree/968708cd0624388b) to the next spoiler.
+### Click [here](https://github.com/ragavpr/terraformental-savebank/tree/2d4a42c8d3c6c9fe) to the next spoiler.
