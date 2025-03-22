@@ -1,6 +1,9 @@
 # Terraformental Run
 ### `f80f368ffac56baa` by `ragavpr`
 
-- First steps in Talos, waking up, scavenging food and water, finding info, repairing a rover, heading to the wherever the info clued.
+## Intro
 
-### Click [here](https://github.com/ragavpr/terraformental-savebank/tree/848a684097eee1fd) to the next spoiler.
+- First steps in Talos, waking up, scavenging food and water, finding info, repairing a rover, heading to the wherever the info clued.
+- Found a weird artifact, it has violated you somehow, marching onwards ignoring it, only with the regret that you couldn't take more supplies with you.
+
+### Click [here](https://github.com/ragavpr/terraformental-savebank/tree/5410d283a6fffaff) to the next spoiler.
