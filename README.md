@@ -1,6 +1,6 @@
 # Terraformental Run
-### `0000000000000000` by `you`
+### `f80f368ffac56baa` by `ragavpr`
 
-- This is a template, this file is used to display text and describe at every commit, remove this line after branching.
+- This is the initial empty save.
 
-### Click [here](https://github.com/ragavpr/terraformental-savebank/tree/0000000000000000) to the next spoiler.
+### Click [here](https://github.com/ragavpr/terraformental-savebank/tree/848a684097eee1fd) to the next spoiler.
