@@ -17,5 +17,11 @@
 
 - Since your spawn time is unfortunate, you are getting Vaporized a lot in your Journey.
 - You are finally able to outrun the explosion and save yourself to a different demise in Astrape.
+- Despite the odds, the export and import glitch allowed you to glitch to Astrape faster than the tram could ever hope.
+- Now, can you finally stop the explosion and find yourself a home in Santorini?.
+
+### Mods and Exploits used
+- 120x, 30x speed mods.
+- Astrape Route save glitch exploit.
 
 ### Click [here](https://github.com/ragavpr/terraformental-savebank/tree/2d4a42c8d3c6c9fe) to the next spoiler.
